@@ -70,85 +70,48 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-1-17-19-44-861210.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=hGaQaBeUfGw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0918-2000x2035.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0918-2000x2035-800x814.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-1-17-19-44-861210.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=hGaQaBeUfGw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0918-2000x2035.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0918-2000x2035-800x814.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-1-17-19-44-861210.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=hGaQaBeUfGw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1620x1080-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-1-17-19-44-861210.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=hGaQaBeUfGw",
+                "image": "@PROJECT_PATH@/assets/images/img-20161231-155122-hdr1-2000x1253.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161231-155122-hdr1-2000x1253-800x501.jpg",
                 "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
